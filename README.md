@@ -38,9 +38,9 @@ nvcc gpu.cu -o gpu
   <tr>
     <td class="tg-us36">80</td>
     <td class="tg-us36">0.059094</td>
-    <td class="tg-us36">0.01749</td>
+    <td class="tg-us36">0.0</td>
     <td class="tg-us36">1128</td>
-    <td class="tg-us36">1360</td>
+    <td class="tg-us36">13</td>
     <td class="tg-us36">1.2</td>
   </tr>
   <tr>
