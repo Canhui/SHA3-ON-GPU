@@ -35,7 +35,7 @@ nvcc gpu.cu -o gpu
     <td class="tg-yw4l">GPU</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">1202</td>
+    <td class="tg-yw4l"></td>
     <td class="tg-yw4l">0.002656</td>
     <td class="tg-yw4l">0.000431</td>
     <td class="tg-yw4l">452560.24</td>
